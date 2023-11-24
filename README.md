@@ -1,1 +1,1 @@
-# react-essentials-project
+# React Essentials Project
